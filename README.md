@@ -1,4 +1,4 @@
-I replaced Arcade Physics with [box2d/core](https://lusito.github.io/box2d.ts/) in the examples of the [Making your first Phaser 3 game](https://phaser.io/tutorials/making-your-first-phaser-3-game) tutorial
+I have replaced Arcade Physics with [box2d/core](https://lusito.github.io/box2d.ts/) in the examples of the [Making your first Phaser 3 game](https://phaser.io/tutorials/making-your-first-phaser-3-game) tutorial
 
 [Topic on the Phaser forum](https://phaser.discourse.group/t/i-replaced-arcade-physics-with-box2d-core-in-the-examples-of-the-making-your-first-phaser-3-game-tutorial/14272)
 
